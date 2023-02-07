@@ -1,0 +1,6 @@
+venv/
+models/
+data/
+_pycache_/
+test_output_approximate.p
+test_output.p

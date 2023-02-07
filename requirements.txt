@@ -1,0 +1,17 @@
+h5py==2.9.0
+tqdm
+seaborn
+numpy==1.17.3 # 1.17.0
+tqdm==4.19.5
+matplotlib #==2.2.3
+seaborn==0.9.0
+scipy==1.4.1
+scikit-learn==0.22.1 #0.19.1
+keras==2.2.4
+tensorflow-gpu==1.15.0 # 1.5.0 yikes so outdated; needs python 3.6 as can be seen from the URL below
+# pip install https://files.pythonhosted.org/packages/26/1e/067fa5a334df570f7ea060450585568d9d4e3847f85dcf01f4ecc9c6814f/tensorflow_gpu-1.5.0-cp36-cp36m-win_amd64.whl
+# python 3.7.9
+# pip install https://files.pythonhosted.org/packages/66/f6/77902314db87faa9860dd091649187b806de363da329ea8321cf1dd8bd1a/tensorflow-1.15.5-cp37-cp37m-win_amd64.whl
+# Keras-Applications==1.0.8
+# Keras-Preprocessing==1.1.0
+protobuf==3.20.* # added this 
